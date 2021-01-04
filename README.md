@@ -5,9 +5,12 @@ CABOOSE systems work by dynamically calling upon the behaviors that fill in the 
 
 One can execute this simple prototype application from the MS-DOS CLI using the "run" batch file.
 
-run home  - will display the home page
-run landing - will dispaly the langing page
-run error - will display the error page
-run ANYTHING_ELSE - will display the error page since the ANYTHING_ELSE view is not defined
+[run home  - will display the home page]
+
+[run landing - will dispaly the langing page]
+
+[run error - will display the error page]
+
+[run ANYTHING_ELSE - will display the error page since the ANYTHING_ELSE view is not defined]
 
 The codebase is rather simple and self-documenting.
